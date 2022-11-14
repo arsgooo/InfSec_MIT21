@@ -1,0 +1,30 @@
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task1\bin\Debug\net6.0\task1.exe
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task1\bin\Debug\net6.0\task1.deps.json
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task1\bin\Debug\net6.0\task1.runtimeconfig.json
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task1\bin\Debug\net6.0\task1.dll
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task1\bin\Debug\net6.0\ref\task1.dll
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task1\bin\Debug\net6.0\task1.pdb
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task1\obj\Debug\net6.0\task1.csproj.AssemblyReference.cache
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task1\obj\Debug\net6.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task1\obj\Debug\net6.0\task1.AssemblyInfoInputs.cache
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task1\obj\Debug\net6.0\task1.AssemblyInfo.cs
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task1\obj\Debug\net6.0\task1.csproj.CoreCompileInputs.cache
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task1\obj\Debug\net6.0\task1.dll
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task1\obj\Debug\net6.0\ref\task1.dll
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task1\obj\Debug\net6.0\task1.pdb
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task1\obj\Debug\net6.0\task1.genruntimeconfig.cache
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task1\bin\Debug\net6.0\task1.exe
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task1\bin\Debug\net6.0\task1.deps.json
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task1\bin\Debug\net6.0\task1.runtimeconfig.json
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task1\bin\Debug\net6.0\task1.dll
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task1\bin\Debug\net6.0\ref\task1.dll
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task1\bin\Debug\net6.0\task1.pdb
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task1\obj\Debug\net6.0\task1.csproj.AssemblyReference.cache
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task1\obj\Debug\net6.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task1\obj\Debug\net6.0\task1.AssemblyInfoInputs.cache
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task1\obj\Debug\net6.0\task1.AssemblyInfo.cs
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task1\obj\Debug\net6.0\task1.csproj.CoreCompileInputs.cache
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task1\obj\Debug\net6.0\task1.dll
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task1\obj\Debug\net6.0\ref\task1.dll
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task1\obj\Debug\net6.0\task1.pdb
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task1\obj\Debug\net6.0\task1.genruntimeconfig.cache

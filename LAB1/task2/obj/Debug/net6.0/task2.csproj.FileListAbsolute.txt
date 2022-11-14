@@ -1,0 +1,30 @@
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task2\bin\Debug\net6.0\task2.exe
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task2\bin\Debug\net6.0\task2.deps.json
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task2\bin\Debug\net6.0\task2.dll
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task2\bin\Debug\net6.0\ref\task2.dll
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task2\bin\Debug\net6.0\task2.pdb
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task2\obj\Debug\net6.0\task2.dll
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task2\obj\Debug\net6.0\ref\task2.dll
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task2\obj\Debug\net6.0\task2.pdb
+D:\KNU FIT\Основи інформаційної безпеки\LAB1\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task2\obj\Debug\net6.0\task2.dll
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task2\obj\Debug\net6.0\ref\task2.dll
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task2\obj\Debug\net6.0\task2.pdb
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task2\bin\Debug\net6.0\task2.exe
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task2\bin\Debug\net6.0\task2.deps.json
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task2\bin\Debug\net6.0\task2.dll
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task2\bin\Debug\net6.0\ref\task2.dll
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task2\bin\Debug\net6.0\task2.pdb
+D:\KNU_FIT\Основи інформаційної безпеки\LAB1\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
