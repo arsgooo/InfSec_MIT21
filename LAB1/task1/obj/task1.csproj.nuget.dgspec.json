@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KNU_FIT\\Основи інформаційної безпеки\\LAB1\\task1\\task1.csproj": {}
+    "D:\\KNU_FIT\\Основи інформаційної безпеки\\InfSec_MIT21\\LAB1\\task1\\task1.csproj": {}
   },
   "projects": {
-    "D:\\KNU_FIT\\Основи інформаційної безпеки\\LAB1\\task1\\task1.csproj": {
+    "D:\\KNU_FIT\\Основи інформаційної безпеки\\InfSec_MIT21\\LAB1\\task1\\task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KNU_FIT\\Основи інформаційної безпеки\\LAB1\\task1\\task1.csproj",
+        "projectUniqueName": "D:\\KNU_FIT\\Основи інформаційної безпеки\\InfSec_MIT21\\LAB1\\task1\\task1.csproj",
         "projectName": "task1",
-        "projectPath": "D:\\KNU_FIT\\Основи інформаційної безпеки\\LAB1\\task1\\task1.csproj",
+        "projectPath": "D:\\KNU_FIT\\Основи інформаційної безпеки\\InfSec_MIT21\\LAB1\\task1\\task1.csproj",
         "packagesPath": "C:\\Users\\Fijitsu E546\\.nuget\\packages\\",
-        "outputPath": "D:\\KNU_FIT\\Основи інформаційної безпеки\\LAB1\\task1\\obj\\",
+        "outputPath": "D:\\KNU_FIT\\Основи інформаційної безпеки\\InfSec_MIT21\\LAB1\\task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fijitsu E546\\AppData\\Roaming\\NuGet\\NuGet.Config",
