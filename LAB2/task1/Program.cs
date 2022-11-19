@@ -59,12 +59,18 @@ class Program
                 break;
             
             case 2:
+                if(new FileInfo(path + "encr_file.dat").Length == 0)
+                {
+                    Console.WriteLine("\nThe encrypted file is empty so the decryption cannot be done. Encrypt the data first.");
+                    break;
+                }
+
                 byte[] encFileData = File.ReadAllBytes(path + "encr_file.dat").ToArray(); //reading file encrypted content and putting it into byte array
                 var forDec = new XOR_Algorithm();
                 Console.WriteLine("\nATTENTION! You will get a correct decryption only if the passwords match!");
                 Console.Write("Write the password that you previously used to decrypt the file: ");
                 string decPas = Console.ReadLine();
-                if (String.IsNullOrEmpty(decPas) || new FileInfo(path + "encr_file.dat").Length == 0)
+                if (String.IsNullOrEmpty(decPas))
                 {
                     Console.WriteLine("\nUnfortunately, the decryption cannot be done. Try again please.");
                     break;
