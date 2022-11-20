@@ -11,7 +11,7 @@ class Program
         private byte[] KeyGen(byte[] password, byte[] data) //generating a secret key
         {
             byte[] key = new byte[data.Length]; //creating an array where the secret key will be stored
-            for(int i = 0; i < key.Length; i++)
+            for (int i = 0; i < key.Length; i++)
             {
                 key[i] = password[i % password.Length];
             }
@@ -38,7 +38,7 @@ class Program
         Console.Write("Please, choose one of the options given: ");
         int choice = Convert.ToInt32(Console.ReadLine());
 
-        string path = @"D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB2\";
+        string path = @"D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB2\task1\";
         byte[] file_data = File.ReadAllBytes(path + "init_file.txt").ToArray(); //reading file content and putting it into byte array
 
         switch(choice)
