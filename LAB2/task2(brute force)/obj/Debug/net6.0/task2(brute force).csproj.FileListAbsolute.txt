@@ -1,0 +1,15 @@
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB2\task2(brute force)\bin\Debug\net6.0\task2(brute force).exe
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB2\task2(brute force)\bin\Debug\net6.0\task2(brute force).deps.json
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB2\task2(brute force)\bin\Debug\net6.0\task2(brute force).runtimeconfig.json
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB2\task2(brute force)\bin\Debug\net6.0\task2(brute force).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB2\task2(brute force)\bin\Debug\net6.0\ref\task2(brute force).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB2\task2(brute force)\bin\Debug\net6.0\task2(brute force).pdb
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB2\task2(brute force)\obj\Debug\net6.0\task2(brute force).csproj.AssemblyReference.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB2\task2(brute force)\obj\Debug\net6.0\task2(brute force).GeneratedMSBuildEditorConfig.editorconfig
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB2\task2(brute force)\obj\Debug\net6.0\task2(brute force).AssemblyInfoInputs.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB2\task2(brute force)\obj\Debug\net6.0\task2(brute force).AssemblyInfo.cs
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB2\task2(brute force)\obj\Debug\net6.0\task2(brute force).csproj.CoreCompileInputs.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB2\task2(brute force)\obj\Debug\net6.0\task2(brute force).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB2\task2(brute force)\obj\Debug\net6.0\ref\task2(brute force).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB2\task2(brute force)\obj\Debug\net6.0\task2(brute force).pdb
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB2\task2(brute force)\obj\Debug\net6.0\task2(brute force).genruntimeconfig.cache

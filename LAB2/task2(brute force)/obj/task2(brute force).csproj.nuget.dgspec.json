@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\KNU_FIT\\Основи інформаційної безпеки\\InfSec_MIT21\\LAB2\\task2(brute force)\\task2(brute force).csproj": {}
+  },
+  "projects": {
+    "D:\\KNU_FIT\\Основи інформаційної безпеки\\InfSec_MIT21\\LAB2\\task2(brute force)\\task2(brute force).csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\KNU_FIT\\Основи інформаційної безпеки\\InfSec_MIT21\\LAB2\\task2(brute force)\\task2(brute force).csproj",
+        "projectName": "task2(brute force)",
+        "projectPath": "D:\\KNU_FIT\\Основи інформаційної безпеки\\InfSec_MIT21\\LAB2\\task2(brute force)\\task2(brute force).csproj",
+        "packagesPath": "C:\\Users\\Fijitsu E546\\.nuget\\packages\\",
+        "outputPath": "D:\\KNU_FIT\\Основи інформаційної безпеки\\InfSec_MIT21\\LAB2\\task2(brute force)\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Fijitsu E546\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
