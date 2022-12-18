@@ -10,7 +10,17 @@
       "ProjectGuid": "2728d4af-2dc1-415f-8ad6-1b60de3af90c",
       "DisplayName": "task2",
       "ColorIndex": 1
+    },
+    "18b5211e-7bc7-4886-97f0-7394394082df": {
+      "ProjectGuid": "18b5211e-7bc7-4886-97f0-7394394082df",
+      "DisplayName": "task3(authentication)",
+      "ColorIndex": 2
+    },
+    "dfa56d7f-8194-4cae-b28f-fb1256c49223": {
+      "ProjectGuid": "dfa56d7f-8194-4cae-b28f-fb1256c49223",
+      "DisplayName": "task4(logging in)",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }

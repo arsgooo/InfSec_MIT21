@@ -1,0 +1,15 @@
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task4(logging in)\bin\Debug\net6.0\task4(logging in).exe
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task4(logging in)\bin\Debug\net6.0\task4(logging in).deps.json
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task4(logging in)\bin\Debug\net6.0\task4(logging in).runtimeconfig.json
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task4(logging in)\bin\Debug\net6.0\task4(logging in).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task4(logging in)\bin\Debug\net6.0\ref\task4(logging in).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task4(logging in)\bin\Debug\net6.0\task4(logging in).pdb
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task4(logging in)\obj\Debug\net6.0\task4(logging in).csproj.AssemblyReference.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task4(logging in)\obj\Debug\net6.0\task4(logging in).GeneratedMSBuildEditorConfig.editorconfig
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task4(logging in)\obj\Debug\net6.0\task4(logging in).AssemblyInfoInputs.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task4(logging in)\obj\Debug\net6.0\task4(logging in).AssemblyInfo.cs
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task4(logging in)\obj\Debug\net6.0\task4(logging in).csproj.CoreCompileInputs.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task4(logging in)\obj\Debug\net6.0\task4(logging in).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task4(logging in)\obj\Debug\net6.0\ref\task4(logging in).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task4(logging in)\obj\Debug\net6.0\task4(logging in).pdb
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task4(logging in)\obj\Debug\net6.0\task4(logging in).genruntimeconfig.cache
