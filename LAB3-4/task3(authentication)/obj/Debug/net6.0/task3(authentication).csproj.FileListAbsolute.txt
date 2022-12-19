@@ -1,15 +1,15 @@
-D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task 3 (authentication)\bin\Debug\net6.0\task3(authentication).exe
-D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task 3 (authentication)\bin\Debug\net6.0\task3(authentication).deps.json
-D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task 3 (authentication)\bin\Debug\net6.0\task3(authentication).runtimeconfig.json
-D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task 3 (authentication)\bin\Debug\net6.0\task3(authentication).dll
-D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task 3 (authentication)\bin\Debug\net6.0\ref\task3(authentication).dll
-D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task 3 (authentication)\bin\Debug\net6.0\task3(authentication).pdb
-D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task 3 (authentication)\obj\Debug\net6.0\task3(authentication).csproj.AssemblyReference.cache
-D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task 3 (authentication)\obj\Debug\net6.0\task3(authentication).GeneratedMSBuildEditorConfig.editorconfig
-D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task 3 (authentication)\obj\Debug\net6.0\task3(authentication).AssemblyInfoInputs.cache
-D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task 3 (authentication)\obj\Debug\net6.0\task3(authentication).AssemblyInfo.cs
-D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task 3 (authentication)\obj\Debug\net6.0\task3(authentication).csproj.CoreCompileInputs.cache
-D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task 3 (authentication)\obj\Debug\net6.0\task3(authentication).dll
-D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task 3 (authentication)\obj\Debug\net6.0\ref\task3(authentication).dll
-D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task 3 (authentication)\obj\Debug\net6.0\task3(authentication).pdb
-D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task 3 (authentication)\obj\Debug\net6.0\task3(authentication).genruntimeconfig.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task3(authentication)\bin\Debug\net6.0\task3(authentication).exe
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task3(authentication)\bin\Debug\net6.0\task3(authentication).deps.json
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task3(authentication)\bin\Debug\net6.0\task3(authentication).runtimeconfig.json
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task3(authentication)\bin\Debug\net6.0\task3(authentication).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task3(authentication)\bin\Debug\net6.0\ref\task3(authentication).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task3(authentication)\bin\Debug\net6.0\task3(authentication).pdb
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task3(authentication)\obj\Debug\net6.0\task3(authentication).csproj.AssemblyReference.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task3(authentication)\obj\Debug\net6.0\task3(authentication).GeneratedMSBuildEditorConfig.editorconfig
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task3(authentication)\obj\Debug\net6.0\task3(authentication).AssemblyInfoInputs.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task3(authentication)\obj\Debug\net6.0\task3(authentication).AssemblyInfo.cs
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task3(authentication)\obj\Debug\net6.0\task3(authentication).csproj.CoreCompileInputs.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task3(authentication)\obj\Debug\net6.0\task3(authentication).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task3(authentication)\obj\Debug\net6.0\ref\task3(authentication).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task3(authentication)\obj\Debug\net6.0\task3(authentication).pdb
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB3-4\task3(authentication)\obj\Debug\net6.0\task3(authentication).genruntimeconfig.cache

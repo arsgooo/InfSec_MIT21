@@ -30,12 +30,12 @@ class Authentication
         var HMACSHA1ForInput = ComputeHMACSHA1(inputByteArr, keyForSHA1);
         var HMACSHA256ForInput = ComputeHMACSHA256(inputByteArr, keyForSHA256);
         var HMACSHA512ForInput = ComputeHMACSHA512(inputByteArr, keyForSHA512);
-        Console.WriteLine("--------------------------------------------------------------------------------------------------------------------");
-        Console.WriteLine($"Hash HMACMD5 (sender): {Convert.ToBase64String(HMACMD5ForInput)}");
-        Console.WriteLine($"Hash HMACSHA1 (sender): {Convert.ToBase64String(HMACSHA1ForInput)}");
-        Console.WriteLine($"Hash HMACSHA256 (sender): {Convert.ToBase64String(HMACSHA256ForInput)}");
-        Console.WriteLine($"Hash HMACSHA512 (sender): {Convert.ToBase64String(HMACSHA512ForInput)}");
-        Console.WriteLine("--------------------------------------------------------------------------------------------------------------------");
+        Console.WriteLine("----------------------------------------------------------------------------------------------------------------");
+        Console.WriteLine($"HMACMD5 (sender): {Convert.ToBase64String(HMACMD5ForInput)}");
+        Console.WriteLine($"HMACSHA1 (sender): {Convert.ToBase64String(HMACSHA1ForInput)}");
+        Console.WriteLine($"HMACSHA256 (sender): {Convert.ToBase64String(HMACSHA256ForInput)}");
+        Console.WriteLine($"HMACSHA512 (sender): {Convert.ToBase64String(HMACSHA512ForInput)}");
+        Console.WriteLine("----------------------------------------------------------------------------------------------------------------");
 
 
         //Receiver data hashing (for further comparison)
@@ -43,21 +43,21 @@ class Authentication
         var HMACSHA1ForInput_2 = ComputeHMACSHA1(inputByteArr, keyForSHA1);
         var HMACSHA256ForInput_2 = ComputeHMACSHA256(inputByteArr, keyForSHA256);
         var HMACSHA512ForInput_2 = ComputeHMACSHA512(inputByteArr, keyForSHA512);
-        Console.WriteLine("--------------------------------------------------------------------------------------------------------------------");
-        Console.WriteLine($"Hash HMACMD5 (receiver): {Convert.ToBase64String(HMACMD5ForInput_2)}");
-        Console.WriteLine($"Hash HMACSHA1 (receiver): {Convert.ToBase64String(HMACSHA1ForInput_2)}");
-        Console.WriteLine($"Hash HMACSHA256 (receiver): {Convert.ToBase64String(HMACSHA256ForInput_2)}");
-        Console.WriteLine($"Hash HMACSHA512 (receiver): {Convert.ToBase64String(HMACSHA512ForInput_2)}");
-        Console.WriteLine("--------------------------------------------------------------------------------------------------------------------");
+        Console.WriteLine("----------------------------------------------------------------------------------------------------------------");
+        Console.WriteLine($"HMACMD5 (receiver): {Convert.ToBase64String(HMACMD5ForInput_2)}");
+        Console.WriteLine($"HMACSHA1 (receiver): {Convert.ToBase64String(HMACSHA1ForInput_2)}");
+        Console.WriteLine($"HMACSHA256 (receiver): {Convert.ToBase64String(HMACSHA256ForInput_2)}");
+        Console.WriteLine($"HMACSHA512 (receiver): {Convert.ToBase64String(HMACSHA512ForInput_2)}");
+        Console.WriteLine("----------------------------------------------------------------------------------------------------------------");
 
 
         //Hashes comparison
-        Console.WriteLine("-----------------------------------------------------");
+        Console.WriteLine("-------------------------------------------------------");
         Console.WriteLine($"HMAC MD5 comparison result: {CompareHashes(HMACMD5ForInput, HMACMD5ForInput_2)}");
-        Console.WriteLine($"HMAC MD5 comparison result: {CompareHashes(HMACSHA1ForInput, HMACSHA1ForInput_2)}");
-        Console.WriteLine($"HMAC MD5 comparison result: {CompareHashes(HMACSHA256ForInput, HMACSHA256ForInput_2)}");
-        Console.WriteLine($"HMAC MD5 comparison result: {CompareHashes(HMACSHA512ForInput, HMACSHA512ForInput_2)}");
-        Console.WriteLine("-----------------------------------------------------");
+        Console.WriteLine($"HMAC SHA1 comparison result: {CompareHashes(HMACSHA1ForInput, HMACSHA1ForInput_2)}");
+        Console.WriteLine($"HMAC SHA256 comparison result: {CompareHashes(HMACSHA256ForInput, HMACSHA256ForInput_2)}");
+        Console.WriteLine($"HMAC SHA512 comparison result: {CompareHashes(HMACSHA512ForInput, HMACSHA512ForInput_2)}");
+        Console.WriteLine("-------------------------------------------------------");
 
 
         static byte[] KeyGenerator(int hashSize)
@@ -106,6 +106,6 @@ class Authentication
         {
             if (Convert.ToBase64String(initHash) == Convert.ToBase64String(finalHash)) return "Hashes match. Excellent!";
             else return "Hashes don't match. Receiver got a modified message or file.";
-        } 
+        }
     }
 }

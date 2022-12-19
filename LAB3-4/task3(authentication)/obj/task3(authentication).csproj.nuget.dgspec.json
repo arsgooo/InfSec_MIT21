@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KNU_FIT\\Основи інформаційної безпеки\\InfSec_MIT21\\LAB3-4\\task 3 (authentication)\\task3(authentication).csproj": {}
+    "D:\\KNU_FIT\\Основи інформаційної безпеки\\InfSec_MIT21\\LAB3-4\\task3(authentication)\\task3(authentication).csproj": {}
   },
   "projects": {
-    "D:\\KNU_FIT\\Основи інформаційної безпеки\\InfSec_MIT21\\LAB3-4\\task 3 (authentication)\\task3(authentication).csproj": {
+    "D:\\KNU_FIT\\Основи інформаційної безпеки\\InfSec_MIT21\\LAB3-4\\task3(authentication)\\task3(authentication).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KNU_FIT\\Основи інформаційної безпеки\\InfSec_MIT21\\LAB3-4\\task 3 (authentication)\\task3(authentication).csproj",
+        "projectUniqueName": "D:\\KNU_FIT\\Основи інформаційної безпеки\\InfSec_MIT21\\LAB3-4\\task3(authentication)\\task3(authentication).csproj",
         "projectName": "task3(authentication)",
-        "projectPath": "D:\\KNU_FIT\\Основи інформаційної безпеки\\InfSec_MIT21\\LAB3-4\\task 3 (authentication)\\task3(authentication).csproj",
+        "projectPath": "D:\\KNU_FIT\\Основи інформаційної безпеки\\InfSec_MIT21\\LAB3-4\\task3(authentication)\\task3(authentication).csproj",
         "packagesPath": "C:\\Users\\Fijitsu E546\\.nuget\\packages\\",
-        "outputPath": "D:\\KNU_FIT\\Основи інформаційної безпеки\\InfSec_MIT21\\LAB3-4\\task 3 (authentication)\\obj\\",
+        "outputPath": "D:\\KNU_FIT\\Основи інформаційної безпеки\\InfSec_MIT21\\LAB3-4\\task3(authentication)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fijitsu E546\\AppData\\Roaming\\NuGet\\NuGet.Config",
