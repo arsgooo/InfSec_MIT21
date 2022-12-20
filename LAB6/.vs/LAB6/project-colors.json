@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f04edd8f-e317-4cee-8df7-3da887a0499b": {
+      "ProjectGuid": "f04edd8f-e317-4cee-8df7-3da887a0499b",
+      "DisplayName": "task1(AES,DES,TripleDES)",
+      "ColorIndex": 0
+    },
+    "aee5b33c-72e9-4d03-a1e9-9e9c01cbf6c9": {
+      "ProjectGuid": "aee5b33c-72e9-4d03-a1e9-9e9c01cbf6c9",
+      "DisplayName": "task2(EncryptionWithSalt)",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

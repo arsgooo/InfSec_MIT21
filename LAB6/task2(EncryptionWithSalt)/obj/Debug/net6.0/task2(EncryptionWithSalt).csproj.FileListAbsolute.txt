@@ -1,0 +1,15 @@
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB6\task2(EncryptionWithSalt)\bin\Debug\net6.0\task2(EncryptionWithSalt).exe
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB6\task2(EncryptionWithSalt)\bin\Debug\net6.0\task2(EncryptionWithSalt).deps.json
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB6\task2(EncryptionWithSalt)\bin\Debug\net6.0\task2(EncryptionWithSalt).runtimeconfig.json
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB6\task2(EncryptionWithSalt)\bin\Debug\net6.0\task2(EncryptionWithSalt).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB6\task2(EncryptionWithSalt)\bin\Debug\net6.0\ref\task2(EncryptionWithSalt).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB6\task2(EncryptionWithSalt)\bin\Debug\net6.0\task2(EncryptionWithSalt).pdb
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB6\task2(EncryptionWithSalt)\obj\Debug\net6.0\task2(EncryptionWithSalt).csproj.AssemblyReference.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB6\task2(EncryptionWithSalt)\obj\Debug\net6.0\task2(EncryptionWithSalt).GeneratedMSBuildEditorConfig.editorconfig
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB6\task2(EncryptionWithSalt)\obj\Debug\net6.0\task2(EncryptionWithSalt).AssemblyInfoInputs.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB6\task2(EncryptionWithSalt)\obj\Debug\net6.0\task2(EncryptionWithSalt).AssemblyInfo.cs
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB6\task2(EncryptionWithSalt)\obj\Debug\net6.0\task2(EncryptionWithSalt).csproj.CoreCompileInputs.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB6\task2(EncryptionWithSalt)\obj\Debug\net6.0\task2(EncryptionWithSalt).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB6\task2(EncryptionWithSalt)\obj\Debug\net6.0\ref\task2(EncryptionWithSalt).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB6\task2(EncryptionWithSalt)\obj\Debug\net6.0\task2(EncryptionWithSalt).pdb
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB6\task2(EncryptionWithSalt)\obj\Debug\net6.0\task2(EncryptionWithSalt).genruntimeconfig.cache
