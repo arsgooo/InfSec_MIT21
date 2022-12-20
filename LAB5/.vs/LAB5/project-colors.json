@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "96c020a0-f805-4ef7-afe1-3d216bbfb403": {
+      "ProjectGuid": "96c020a0-f805-4ef7-afe1-3d216bbfb403",
+      "DisplayName": "task1(SaltedHash)",
+      "ColorIndex": 0
+    },
+    "3c783300-0348-4439-8758-423c7df176bf": {
+      "ProjectGuid": "3c783300-0348-4439-8758-423c7df176bf",
+      "DisplayName": "task2(PBKDF2)",
+      "ColorIndex": 1
+    },
+    "9387234d-0664-4e33-8413-8d0a9aa33b50": {
+      "ProjectGuid": "9387234d-0664-4e33-8413-8d0a9aa33b50",
+      "DisplayName": "task3(login_password)",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,15 @@
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task2(PBKDF2)\bin\Debug\net6.0\task2(PBKDF2).exe
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task2(PBKDF2)\bin\Debug\net6.0\task2(PBKDF2).deps.json
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task2(PBKDF2)\bin\Debug\net6.0\task2(PBKDF2).runtimeconfig.json
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task2(PBKDF2)\bin\Debug\net6.0\task2(PBKDF2).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task2(PBKDF2)\bin\Debug\net6.0\ref\task2(PBKDF2).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task2(PBKDF2)\bin\Debug\net6.0\task2(PBKDF2).pdb
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task2(PBKDF2)\obj\Debug\net6.0\task2(PBKDF2).csproj.AssemblyReference.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task2(PBKDF2)\obj\Debug\net6.0\task2(PBKDF2).GeneratedMSBuildEditorConfig.editorconfig
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task2(PBKDF2)\obj\Debug\net6.0\task2(PBKDF2).AssemblyInfoInputs.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task2(PBKDF2)\obj\Debug\net6.0\task2(PBKDF2).AssemblyInfo.cs
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task2(PBKDF2)\obj\Debug\net6.0\task2(PBKDF2).csproj.CoreCompileInputs.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task2(PBKDF2)\obj\Debug\net6.0\task2(PBKDF2).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task2(PBKDF2)\obj\Debug\net6.0\ref\task2(PBKDF2).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task2(PBKDF2)\obj\Debug\net6.0\task2(PBKDF2).pdb
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task2(PBKDF2)\obj\Debug\net6.0\task2(PBKDF2).genruntimeconfig.cache

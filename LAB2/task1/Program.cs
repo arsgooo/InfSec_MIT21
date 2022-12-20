@@ -35,6 +35,7 @@ class Program
         Console.WriteLine("\n1 - encrypt the file and write this data into .dat file");
         Console.WriteLine("2 - decrypt an encrypted file");
         Console.WriteLine("3 - clear the .dat file");
+        Console.WriteLine("4 - exit");
         Console.Write("Please, choose one of the options given: ");
         int choice = Convert.ToInt32(Console.ReadLine());
 
@@ -84,6 +85,10 @@ class Program
 
             case 3:
                 File.WriteAllText(path + "encr_file.dat", string.Empty); //making file empty
+                break;
+
+            case 4:
+                Environment.Exit(0);
                 break;
         }
     }

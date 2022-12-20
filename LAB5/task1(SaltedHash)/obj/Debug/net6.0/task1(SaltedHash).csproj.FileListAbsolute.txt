@@ -1,0 +1,15 @@
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task1(SaltedHash)\bin\Debug\net6.0\task1(SaltedHash).exe
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task1(SaltedHash)\bin\Debug\net6.0\task1(SaltedHash).deps.json
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task1(SaltedHash)\bin\Debug\net6.0\task1(SaltedHash).runtimeconfig.json
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task1(SaltedHash)\bin\Debug\net6.0\task1(SaltedHash).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task1(SaltedHash)\bin\Debug\net6.0\ref\task1(SaltedHash).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task1(SaltedHash)\bin\Debug\net6.0\task1(SaltedHash).pdb
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task1(SaltedHash)\obj\Debug\net6.0\task1(SaltedHash).GeneratedMSBuildEditorConfig.editorconfig
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task1(SaltedHash)\obj\Debug\net6.0\task1(SaltedHash).AssemblyInfoInputs.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task1(SaltedHash)\obj\Debug\net6.0\task1(SaltedHash).AssemblyInfo.cs
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task1(SaltedHash)\obj\Debug\net6.0\task1(SaltedHash).csproj.CoreCompileInputs.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task1(SaltedHash)\obj\Debug\net6.0\task1(SaltedHash).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task1(SaltedHash)\obj\Debug\net6.0\ref\task1(SaltedHash).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task1(SaltedHash)\obj\Debug\net6.0\task1(SaltedHash).pdb
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task1(SaltedHash)\obj\Debug\net6.0\task1(SaltedHash).genruntimeconfig.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB5\task1(SaltedHash)\obj\Debug\net6.0\task1(SaltedHash).csproj.AssemblyReference.cache
