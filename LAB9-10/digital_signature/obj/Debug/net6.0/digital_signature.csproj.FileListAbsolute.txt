@@ -1,0 +1,15 @@
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB9-10\digital_signature\bin\Debug\net6.0\digital_signature.exe
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB9-10\digital_signature\bin\Debug\net6.0\digital_signature.deps.json
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB9-10\digital_signature\bin\Debug\net6.0\digital_signature.runtimeconfig.json
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB9-10\digital_signature\bin\Debug\net6.0\digital_signature.dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB9-10\digital_signature\bin\Debug\net6.0\ref\digital_signature.dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB9-10\digital_signature\bin\Debug\net6.0\digital_signature.pdb
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB9-10\digital_signature\obj\Debug\net6.0\digital_signature.csproj.AssemblyReference.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB9-10\digital_signature\obj\Debug\net6.0\digital_signature.GeneratedMSBuildEditorConfig.editorconfig
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB9-10\digital_signature\obj\Debug\net6.0\digital_signature.AssemblyInfoInputs.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB9-10\digital_signature\obj\Debug\net6.0\digital_signature.AssemblyInfo.cs
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB9-10\digital_signature\obj\Debug\net6.0\digital_signature.csproj.CoreCompileInputs.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB9-10\digital_signature\obj\Debug\net6.0\digital_signature.dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB9-10\digital_signature\obj\Debug\net6.0\ref\digital_signature.dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB9-10\digital_signature\obj\Debug\net6.0\digital_signature.pdb
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB9-10\digital_signature\obj\Debug\net6.0\digital_signature.genruntimeconfig.cache
