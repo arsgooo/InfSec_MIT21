@@ -1,0 +1,15 @@
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB7-8\task2(KeyGen)\bin\Debug\net6.0\task2(KeyGen).exe
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB7-8\task2(KeyGen)\bin\Debug\net6.0\task2(KeyGen).deps.json
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB7-8\task2(KeyGen)\bin\Debug\net6.0\task2(KeyGen).runtimeconfig.json
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB7-8\task2(KeyGen)\bin\Debug\net6.0\task2(KeyGen).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB7-8\task2(KeyGen)\bin\Debug\net6.0\ref\task2(KeyGen).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB7-8\task2(KeyGen)\bin\Debug\net6.0\task2(KeyGen).pdb
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB7-8\task2(KeyGen)\obj\Debug\net6.0\task2(KeyGen).csproj.AssemblyReference.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB7-8\task2(KeyGen)\obj\Debug\net6.0\task2(KeyGen).GeneratedMSBuildEditorConfig.editorconfig
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB7-8\task2(KeyGen)\obj\Debug\net6.0\task2(KeyGen).AssemblyInfoInputs.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB7-8\task2(KeyGen)\obj\Debug\net6.0\task2(KeyGen).AssemblyInfo.cs
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB7-8\task2(KeyGen)\obj\Debug\net6.0\task2(KeyGen).csproj.CoreCompileInputs.cache
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB7-8\task2(KeyGen)\obj\Debug\net6.0\task2(KeyGen).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB7-8\task2(KeyGen)\obj\Debug\net6.0\ref\task2(KeyGen).dll
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB7-8\task2(KeyGen)\obj\Debug\net6.0\task2(KeyGen).pdb
+D:\KNU_FIT\Основи інформаційної безпеки\InfSec_MIT21\LAB7-8\task2(KeyGen)\obj\Debug\net6.0\task2(KeyGen).genruntimeconfig.cache

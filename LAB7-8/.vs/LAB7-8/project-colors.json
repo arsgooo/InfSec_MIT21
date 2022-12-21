@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "19f661af-6106-4f28-98a8-b1f300b7aab2": {
+      "ProjectGuid": "19f661af-6106-4f28-98a8-b1f300b7aab2",
+      "DisplayName": "task1(RSA_Enc_Dec)",
+      "ColorIndex": 0
+    },
+    "4e07fdf1-abfc-441a-8bc3-4366c4ecc350": {
+      "ProjectGuid": "4e07fdf1-abfc-441a-8bc3-4366c4ecc350",
+      "DisplayName": "task2(KeyGen)",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
