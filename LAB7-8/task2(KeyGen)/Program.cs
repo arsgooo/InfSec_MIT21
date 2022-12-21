@@ -13,11 +13,11 @@ class Program
         string keyFileExt = ".xml";
         string encFileExt = ".txt";
         string surname;
-        byte[] decMes;
         string keyFilePath;
         string encMesFilePath;
+        byte[] decMes;
 
-        while(true)
+        while (true)
         {
             Console.WriteLine();
             Console.WriteLine("Greetings!");
@@ -42,7 +42,7 @@ class Program
                     }
                     keyFilePath = keyFolderPath + surname + keyFileExt;
                     AsymEnc.GenerateOwnKeys(keyFilePath);
-                    Console.WriteLine("The key was generated. Check the file if needed.");
+                    Console.WriteLine("The key was generated. Check the \"Public_key\" folder.");
                     break;
 
                 case 2:
@@ -61,7 +61,7 @@ class Program
                     {
                         File.Delete(files[i]);
                     }
-                    Console.WriteLine($"The key was successfully deleted!");
+                    Console.WriteLine($"The key was successfully deleted! Check the \"Public_key\" folder.");
                     break;
 
                 case 3:
@@ -72,18 +72,18 @@ class Program
                         Console.WriteLine("Public keys:");
                         for (int i = 0; i < key_files.Length; i++)
                         {
-                            Console.WriteLine((i + 1) + ". " + key_files[i]);
+                            Console.WriteLine((i + 1) + ". " + Path.GetFileName(key_files[i]));
                         }
-                        Console.Write("Enter public key number: ");
+                        Console.Write("\nEnter public key number: ");
                         int num = Convert.ToInt32(Console.ReadLine());
                         keyFilePath = key_files[num - 1];
                         Console.Write("Enter your message: ");
                         string message = Console.ReadLine();
-                        Console.Write("Enter file name (without extension): ");
+                        Console.Write("Enter (create) message file name (without extension): ");
                         string encMesFileName = Console.ReadLine();
                         encMesFilePath = encMesFolderPath + encMesFileName + encFileExt;
                         AsymEnc.EncryptData(keyFilePath, Encoding.UTF8.GetBytes(message), encMesFilePath);
-                        Console.WriteLine($"The encryption was done!");
+                        Console.WriteLine($"The encryption was done! Check the \"Encrypted_message\" folder.");
                     }
                     else Console.WriteLine("There are no public keys to encrypt data. Generate a key and try again.");
                     break;
@@ -96,14 +96,13 @@ class Program
                         Console.WriteLine("Encrypted messages:");
                         for (int i = 0; i < enc_files.Length; i++)
                         {
-                            Console.WriteLine((i + 1) + ". " + enc_files[i]);
+                            Console.WriteLine((i + 1) + ". " + Path.GetFileName(enc_files[i]));
                         }
-                        Console.WriteLine();
-                        Console.Write("Enter message number to decrypt: ");
+                        Console.Write("\nEnter message number you want to decrypt: ");
                         int num = Convert.ToInt32(Console.ReadLine());
                         encMesFilePath = enc_files[num - 1];
                         decMes = AsymEnc.DecryptData(encMesFilePath);
-                        Console.WriteLine($"Decrypted message: {Encoding.UTF8.GetString(decMes)}");
+                        Console.WriteLine($"Decrypted message: {Encoding.Default.GetString(decMes)}");
                     }
                     else Console.WriteLine("There are no files to decrypt. Please, encrypt one and try again.");
                     break;
@@ -152,12 +151,7 @@ public class AsymEnc
     public static void EncryptData(string keyFilePath, byte[] dataToEncrypt, string encMesFilePath)
     {
         byte[] chipherBytes;
-        var cspParams = new CspParameters
-        {
-            KeyContainerName = CspContainerName,
-            Flags = CspProviderFlags.UseMachineKeyStore
-        };
-        using (var rsa = new RSACryptoServiceProvider(2048, cspParams))
+        using (var rsa = new RSACryptoServiceProvider(2048))
         {
             rsa.PersistKeyInCsp = false;
             rsa.FromXmlString(File.ReadAllText(keyFilePath));
@@ -173,7 +167,7 @@ public class AsymEnc
         var cspParams = new CspParameters
         {
             KeyContainerName = CspContainerName,
-            Flags = CspProviderFlags.UseMachineKeyStore
+            Flags = CspProviderFlags.UseMachineKeyStore,
         };
         using (var rsa = new RSACryptoServiceProvider(2048, cspParams))
         {
